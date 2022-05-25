@@ -1,0 +1,46 @@
+*
+/*------Adventure------*/
+a:link, a:visited{background-color:#E474F6
+color:#767476;
+padding:10px 20px;
+text-align:left;
+display: inline-block;
+text decoration:none;
+font-family:arial;
+border:black}
+
+li a:hover{background:F9F6FA;
+text-transform:uppercase}
+
+body{background-color:#BCB7BD}
+p{font-family:arial;}
+
+aside{
+width:30%;
+padding:15px;
+margin:15px;
+float:left;
+}
+
+
+
+
+/*------Upcoming-----*/
+a:link, a:visited{background-color:#E474F6
+color:#767476;
+padding:10px 20px;
+text-align:left;
+display: inline-block;
+text decoration:none;
+font-family:arial;
+border:black}
+
+li a:hover{background:F9F6FA;
+text-transform:uppercase}
+
+<body style="#C1C3C3;"
+
+
+/*------BOOKINGS-------*/
+	body{background-color:#BCB7BD}
+p{font-family:arial;}
